@@ -1,0 +1,9 @@
+# data and model files are not committed (see README)
+*.pt
+*.npy
+*.zip
+maize_split/
+maize_data/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
